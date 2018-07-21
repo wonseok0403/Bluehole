@@ -1,0 +1,10 @@
+C:\Users\jws78\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.1\ChatServer.deps.json
+C:\Users\jws78\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.1\ChatServer.runtimeconfig.json
+C:\Users\jws78\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.1\ChatServer.runtimeconfig.dev.json
+C:\Users\jws78\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.1\ChatServer.dll
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.RazorAssemblyInfo.cache
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.RazorAssemblyInfo.cs
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.AssemblyInfo.cs
+C:\Users\jws78\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.1\ChatServer.RazorTargetAssemblyInfo.cache
